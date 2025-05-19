@@ -1,0 +1,3 @@
+[submodule "wifi/esp32-wifi-penetration-tool"]
+	path = wifi/esp32-wifi-penetration-tool
+	url = https://github.com/risinek/esp32-wifi-penetration-tool.git
